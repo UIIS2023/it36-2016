@@ -1,0 +1,11 @@
+Uradjene stavke:
+Sve
+todo:iskomentarisi kod
+
+fixed:
+bug: cancel color choosing in (anyShape) dialog gives you a blackShape thats not painted until you draw another shape
+bug sa undoovanjem To front i to back dela,
+bug sa cuvanjem paintinga i log-a
+bug sa nestajanjem Undo dugmeta
+i novi bug gde dijalozi za editovanje ne prenose boje pravilno vec koriste prethodno kreiranog oblika
+popravljen bug kada app crashuje prilikom loadnext() na osnovu loga kad naleti na razmenu modifikovanog i novog elementa
